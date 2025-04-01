@@ -39,7 +39,7 @@ Books can be sent:
 ## 📁 File Structure
 
 - `notebooks/`: Python notebooks for modeling and simulation
-- `report/`: Problem definition and questions (`SecondPart_v2.pdf`)
+- `report/`: Problem definition and questions (`Report.pdf`)
 - `README.md`: Project documentation
 
 ---
